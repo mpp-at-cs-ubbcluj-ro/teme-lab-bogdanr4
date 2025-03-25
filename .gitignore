@@ -1,0 +1,6 @@
+.idea/
+/target
+*.iml
+TemaLab3/target/MPP_BD.log
+TemaLab3.iml
+*.iml
